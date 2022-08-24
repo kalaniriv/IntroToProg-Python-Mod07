@@ -2,8 +2,8 @@
 #### August 23, 2022
 #### Foundations in Programming: Python
 #### Assignment07
-#### https://github.com/kalaniriv/IntroToProg-Python-Mod07
-#### https://kalaniriv.github.io/IntroToProg-Python-Mod07/
+#### (https://github.com/kalaniriv/IntroToProg-Python-Mod07)
+#### (https://kalaniriv.github.io/IntroToProg-Python-Mod07/)
 
 
 # Module07 - Pickling Python Script
@@ -26,12 +26,13 @@ The next step was to run the script using PyCharm (Figure 2). The program first 
 ## Step 3: Using the Terminal to Run the Python Script
 The final step was to run the script using the terminal app. I first used the change directory (“cd”) command to navigate to my file (Documents > _PythonClass > Assignment07). Once in the proper folder, I ran the command “python Assignment07v2.py” to begin executing the script. I followed the prompts to provide add four different entries to the list. Once I told the program I did not want to make any further submissions, it informed me that the data had been saved and allowed me to view the final list before exiting.
 
-![Figure 2](https://github.com/kalaniriv/IntroToProg-Python-Mod07/blob/main/docs/Figure2.png)
+![Figure 2](https://github.com/kalaniriv/IntroToProg-Python-Mod07/blob/main/docs/Figure2.png?raw=true)
 ***Figure 2. Using the terminal to execute the python script.***
 
 I then checked the AppData.dat file to ensure the edits I made by running the script in the terminal app were captured correctly (Figure 3).
 
-![Figure 3](https://github.com/kalaniriv/IntroToProg-Python-Mod07/blob/main/docs/Figure3.png)
+![Figure 3](https://github.com/kalaniriv/IntroToProg-Python-Mod07/blob/main/docs/Figure3.png?raw=true)
+
 ***Figure 3. AppData.dat file correctly logging my submissions from PyCharm and the terminal app.***
 
 ## Summary
