@@ -2,8 +2,8 @@
 #### August 23, 2022
 #### Foundations in Programming: Python
 #### Assignment07
-#### (https://github.com/kalaniriv/IntroToProg-Python-Mod07)
-#### (https://kalaniriv.github.io/IntroToProg-Python-Mod07/)
+#### [Repository](https://github.com/kalaniriv/IntroToProg-Python-Mod07)
+#### [Website](https://kalaniriv.github.io/IntroToProg-Python-Mod07/)
 
 
 # Module07 - Pickling Python Script
