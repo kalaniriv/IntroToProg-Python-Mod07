@@ -20,7 +20,7 @@ In the presentation portion of the code, I used a ‘while’ loop to first call
 ## Step 2: Using PyCharm to Run the Script
 The next step was to run the script using PyCharm (Figure 2). The program first asked me if I wanted to submit an entry, to which I responded ‘y.’ I entered ‘1’ and ‘Kaeli’ and the program let me know the entry was added to the list. I then added three more entries before telling the program I didn’t want to make any additional entries. The program then let me know my submissions were saved and then displayed the final results to me.
 
-![Figure 1](https://github.com/kalaniriv/IntroToProg-Python-Mod07/blob/main/docs/Figure1.png)
+![Figure 1](https://github.com/kalaniriv/IntroToProg-Python-Mod07/blob/main/docs/Figure1.png?raw=true)
 ***Figure 1. Running the script using PyCharm.***
 
 ## Step 3: Using the Terminal to Run the Python Script
